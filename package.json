@@ -1,0 +1,24 @@
+{
+  "name": "spawn-proxy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "node_modules/.bin/tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apatryda/spawn-proxy.git"
+  },
+  "author": "Artur Nerkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apatryda/spawn-proxy/issues"
+  },
+  "homepage": "https://github.com/apatryda/spawn-proxy#readme",
+  "devDependencies": {
+    "@types/node": "8.5.2"
+  }
+}
