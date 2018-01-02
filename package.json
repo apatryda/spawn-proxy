@@ -1,6 +1,6 @@
 {
   "name": "spawn-proxy",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/apatryda/spawn-proxy#readme",
   "devDependencies": {
-    "@types/node": "^8.5.2"
+    "@types/node": "8.5.2"
   }
 }
